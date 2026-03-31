@@ -12,9 +12,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil5023w&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nikhil5023w&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil5023w&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil5023w&layout=compact&theme=tokyonight" />
+
 
 ## 🔥 Featured Projects
 
