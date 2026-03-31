@@ -1,6 +1,5 @@
 ---  ⭐ Welcome to my GitHub profile   ---
 
-
 # Hi 👋, I'm Nikhil Singh
 
 🚀 Frontend Developer | 1+ Year Experience
@@ -9,36 +8,42 @@
 
 💡 Passionate about building scalable and user-friendly web applications
 
+## --- 🚀 Currently Working On  ---
+- Improving full-stack skills (React + Node.js)
+- Building scalable real-world applications
+- Learning advanced backend concepts
 
-## 🔥 Featured Projects
+## ---  🔥 Featured Projects  ---
 
-### 🏨 Hotel Booking App
-
+### ---  🏨 Hotel Booking App  ---
 🔗 Live: https://hotelbooking-murex-one.vercel.app/
 
-### 🌐 Corporate Website
-
-🔗 Live: https://360-innoworks.vercel.app/
+### ---  🌐 Corporate Website  ---
+🔗 Digital Marketing: https://360-innoworks.vercel.app/
 🔗 Live: https://wwl.org.in/
 
-### 🏢 Real Estate Website
-
-🔗 Live: https://opulentbuilder.in/
-🔗 Live: https://ssplindia.co.in/
-🔗 Live: https://ekaantphursungi.com/
-🔗 Live: https://abodes.thestrand.in/
+### ---  🏢 Real Estate Website  ---
+🔗 Opulent Builder: https://opulentbuilder.in/  
+🔗 SSPL India: https://ssplindia.co.in/  
+🔗 Ekaant: https://ekaantphursungi.com/  
+🔗 Abodes: https://abodes.thestrand.in/
 
 ---
 
-## 🛠 Tech Stack
-
+## ---  🛠 Tech Stack  ---
 Frontend: React.js, Tailwind CSS, JavaScript
 Backend: Node.js, Express.js
 Database: MongoDB
 
 ---
 
-## 📫 Connect with me
+## ---  💡 Key Strengths  ---
+- Real-world production experience
+- Strong UI/UX understanding
+- API integration & full-stack basics
+- Responsive and performance-focused development
+
+## ---  📫 Connect with me  ---
 
 🌐 Portfolio: https://nikhil5023w.vercel.app/
 💼 LinkedIn: https://www.linkedin.com/in/nikhil-singh-4bb061243/
