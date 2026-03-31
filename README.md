@@ -8,6 +8,12 @@
 🌐 React.js | Tailwind CSS | Node.js | MongoDB
 
 
+## 📊 GitHub Stats
+
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil5023w&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil5023w&layout=compact&theme=radical)
+
 ## 🔥 Featured Projects
 
 ### 🏨 Hotel Booking App
