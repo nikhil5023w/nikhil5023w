@@ -65,4 +65,4 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/nikhil5023w/nikhil5023w/github/workflows/main.yml)
+![snake gif](https://github.com/nikhil5023w/nikhil5023w/blob/output/github-contribution-grid-snake.svg)
