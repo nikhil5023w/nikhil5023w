@@ -1,6 +1,11 @@
 ---  ⭐ Welcome to my GitHub profile   ---
 
+---
+
 # Hi 👋, I'm Nikhil Singh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Building+Real+World+Projects;Open+to+Opportunities" />
+</p>
 
 🚀 Frontend Developer | 1+ Year Experience
 💻 Built 7+ Real-World Production Projects
@@ -8,10 +13,14 @@
 
 💡 Passionate about building scalable and user-friendly web applications
 
+---
+
 ## --- 🚀 Currently Working On  ---
 - Improving full-stack skills (React + Node.js)
 - Building scalable real-world applications
 - Learning advanced backend concepts
+
+---
 
 ## ---  🔥 Featured Projects  ---
 
@@ -30,10 +39,13 @@
 
 ---
 
-## ---  🛠 Tech Stack  ---
-Frontend: React.js, Tailwind CSS, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -43,7 +55,14 @@ Database: MongoDB
 - API integration & full-stack basics
 - Responsive and performance-focused development
 
+---
+
 ## ---  📫 Connect with me  ---
 
 🌐 Portfolio: https://nikhil5023w.vercel.app/
 💼 LinkedIn: https://www.linkedin.com/in/nikhil-singh-4bb061243/
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/nikhil5023w/nikhil5023w/blob/output/github-contribution-grid-snake.svg)
