@@ -12,9 +12,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhil5023w&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil5023w&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=nikhil5023w&theme=tokyonight" />
 
 
 ## 🔥 Featured Projects
