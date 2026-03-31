@@ -10,11 +10,6 @@
 💡 Passionate about building scalable and user-friendly web applications
 
 
-## 📊 GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=nikhil5023w&theme=tokyonight" />
-
-
 ## 🔥 Featured Projects
 
 ### 🏨 Hotel Booking App
