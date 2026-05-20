@@ -158,22 +158,6 @@ Status: Open to Opportunities 🟢
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil5023w&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=2dd4bf&text_color=e8e6f0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil5023w&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e8e6f0"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil5023w&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=2dd4bf&currStreakLabel=e8e6f0&sideLabels=e8e6f0&dates=888" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 💡 Key Strengths
 
