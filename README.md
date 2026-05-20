@@ -80,9 +80,6 @@ Status: Open to Opportunities 🟢
 </div>
 
 ---
-```
-
----
 
 ## 🚀 Featured Projects
 
