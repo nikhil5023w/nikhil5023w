@@ -24,23 +24,62 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-```typescript
-const nikhil = {
-  name:       "Nikhil Singh",
-  role:       "Frontend Developer",
-  experience: "1+ Year",
-  location:   "India 🇮🇳",
-  projects:   "7+ Production Apps",
-  stack:      ["React", "Next.js", "Tailwind CSS", "Node.js", "MongoDB"],
-  currentFocus: [
-    "Improving Full-Stack skills (React + Node.js)",
-    "Building scalable real-world applications",
-    "Learning advanced backend concepts"
-  ],
-  status:     "Open to Opportunities 🟢",
-};
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Experiences;Frontend+%26+Full-Stack+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+%26+Building" />
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🚀 Who I Am
+
+- 💻 Frontend & Full-Stack Developer from India  
+- ⚡ Building scalable and production-ready web apps  
+- 🎨 Focused on modern UI/UX and smooth interactions  
+- 🔌 Experienced with REST APIs and real-world deployments  
+- 📈 Passionate about performance optimization & clean code  
+- 🧠 Currently learning advanced backend & system design  
+
+</td>
+
+<td width="45%" valign="top">
+
+```yaml
+Name: Nikhil Singh
+Experience: 1+ Years
+Projects: 7+ Production Apps
+Frontend:
+  - React.js
+  - Next.js
+  - Tailwind CSS
+  - Framer Motion
+
+Backend:
+  - Node.js
+  - Express.js
+  - MongoDB
+
+Status: Open to Opportunities 🟢
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🌟 What I Love Building
+
+`Modern Dashboards` • `Business Websites` • `CRM Platforms` • `Full-Stack Apps` • `Animated UI Experiences`
+
+</div>
+
+---
 ```
 
 ---
